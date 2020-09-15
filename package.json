@@ -1,0 +1,30 @@
+{
+  "name": "nextjs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "export": "next export"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jnetc/contentful.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jnetc/contentful/issues"
+  },
+  "homepage": "https://github.com/jnetc/contentful#readme",
+  "dependencies": {
+    "@sendgrid/mail": "^7.2.5",
+    "contentful": "^7.14.6",
+    "dotenv": "^8.2.0",
+    "next": "^9.5.3",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1"
+  }
+}

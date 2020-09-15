@@ -1,0 +1,9 @@
+[build]
+  command   = "npm run build && npm run export"
+  functions = "functions/"
+  publish   = "out"
+
+[[redirects]]
+  from = "/api/sendgrid"
+  to = "/.netlify/functions/send"
+  status = 200

@@ -1,4 +1,4 @@
-[![Netlify Status](https://api.netlify.com/api/v1/badges/2eb19ffc-e14f-4601-9366-788a469dee39/deploy-status)](https://app.netlify.com/sites/peaceful-ride-7be226/deploys)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/2eb19ffc-e14f-4601-9366-788a469dee39/deploy-status)](https://app.netlify.com/sites/contentful-sendgrid/deploys)
 
 <p align="center">
   <a href="https://app.netlify.com/">
